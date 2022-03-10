@@ -1,8 +1,9 @@
  👋 Oi! Me chamo Diego Corralo. Sou formado em Direito e Pós Graduado em Direito Processual Civil. 
 - Etou estudando programação, mais especificamente a linguagem Python. 
+- Meu primeiro curso em programação foi o GRASSHOPPER - Curso do Google.
 - Já conclui o curso sobre Python atraves do CURSO EM VIDEO(wwww.cursoemvideo.com), totalizando mais de 120 horas de curso e mais de 100 exercícios práticos.
 - Atualmente estou estudando INTROSUÇÃO À CIÊNCIA DA COMPUTAÇÃO COM PYTHON, através da USP (COURSERA.ORG) - FASE CONCLUSIVA DO CURSO. 
-- Estou finalizando o curso PYTHON ESSENTIALS, através da CISCO NETWORKING ACADEMY.
+- Estou finalizando também o curso PYTHON ESSENTIALS, através da CISCO NETWORKING ACADEMY.
 - Além disso, já participei do curso Intensivão Python, sobre Análise de Dados, bem como POWER BI, por intermédio da Hashtag Programação. 
 -
 - CURSANDO: 
