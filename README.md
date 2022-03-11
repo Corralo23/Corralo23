@@ -17,7 +17,7 @@
   - Pedalar
   - Ler livros sobre os mais diversos temas
 - 
-- Fique a vontade para entrar em contato comigo, ficarei muuito feliz em poder ajudar
+- Fique a vontade para entrar em contato comigo, ficarei muito feliz em poder ajudar
 - Meu e-mail é: diegocorralo@hotmail.com
 - Meu linkedin www.linkedin.com/in/diego-corralo-64537217a 
 
