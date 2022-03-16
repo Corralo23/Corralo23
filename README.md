@@ -9,7 +9,8 @@
 - CURSANDO: 
 -   - NLW - Origin (HTML, CSS) - Rocketseat
 -   - HTML5 e CSS3 - Curso em Vídeo
--   - CS50 -  cs50.harvard.edu/x (Os tópicos incluem abstração, algoritmos, estruturas de dados, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e programação web. As linguagens incluem C, Python e SQL, além de HTML, CSS e JavaScript.)
+-   - CS50 -  cs50.harvard.edu/x (Os tópicos incluem abstração, algoritmos, estruturas de dados, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e programação web. As linguagens incluem C, Python e SQL, além de HTML, CSS e JavaScript.).
+-   - MySQL - Bancos de Dados utilizando um Sistema de Gerenciamento de Banco de Dados (MySQL) com a Linguagem de Consulta Estruturada (SQL). - CURSO EM VÍDEO.
 - 
 - Estou interessado, inicialmente, em uma vaga de estágio, a fim de ingressar no mundo da programação. 
 - 
